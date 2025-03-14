@@ -5,3 +5,7 @@
 
     border-radius: 0.75rem;
 }
+
+.img-grayscale{
+    filter: grayscale(1);
+}
