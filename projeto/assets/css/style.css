@@ -9,3 +9,9 @@
 .img-grayscale{
     filter: grayscale(1);
 }
+
+.img-bg-call2action{
+    background-image: linear-gradient(to bottom, rgba(12,110,253, 0.6), rgba(74,168,250,0.6)), url('../img/desenvolvedor.jpg');
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+}
